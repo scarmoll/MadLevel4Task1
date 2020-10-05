@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MadLevel4Task1.iml" filepath="$PROJECT_DIR$/.idea/modules/MadLevel4Task1.iml" group="MadLevel4Task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MadLevel4Task1-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MadLevel4Task1-app.iml" group="MadLevel4Task1/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="shopping-list-kotlin/app" />
+    </modules>
+  </component>
+</project>
